@@ -1,0 +1,5 @@
+##Disadvantages of Abstract Factory Design Pattern
+1. Too complex.
+2. Pattern within a pattern.
+3. Refactoring factory.
+4. More control is given to client (specifying types by providing inputs).
